@@ -1,3 +1,5 @@
 # Exercise Tracker
 
-This is the boilerplate for the Exercise Tracker project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker
+This is a solution for the Exercise Tracker project for the fcc backend certification. This page will allow you to generate an user with an id,
+and add exercises bound to that user.
+This solution does not implement a database, these users and exercises only exist in memory.
